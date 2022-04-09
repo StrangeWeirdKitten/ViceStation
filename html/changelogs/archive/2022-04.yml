@@ -87,3 +87,6 @@
   - rscadd: various flavor items
   - rscadd: Posialert console to robo
   - bugfix: Missing atmospherics machinery
+2022-04-09:
+  Curiosity:
+  - bugfix: Fixes Auxmos fires
