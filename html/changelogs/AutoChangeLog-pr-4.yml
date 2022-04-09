@@ -1,0 +1,4 @@
+author: Curiosity
+delete-after: true
+changes:
+  - bugfix: Fixes Auxmos fires
