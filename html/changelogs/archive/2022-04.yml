@@ -109,5 +109,3 @@
   - rscadd: Added tinyfans to the default escape pod door
   tiviplus, lolman360, SandPoot:
   - refactor: /obj/mecha > /obj/vehicle/sealed/mecha
-  Curiosity:
-  - bugfix: Fixes Auxmos fires
